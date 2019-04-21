@@ -1,3 +1,3 @@
-# Nebulas ERC20 Contract.
+BYH ERC20
 
 
